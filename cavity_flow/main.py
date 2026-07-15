@@ -8,7 +8,6 @@ import operators as ops
 import visualizer as vsl
 import validation as val
 
-
 if __name__ == "__main__":
 
     "Initializing values"
@@ -75,7 +74,7 @@ if __name__ == "__main__":
 
     vsl.final_plot(u, v, p, omega, g)
 
-    AHAHAHAHAH
+
 
 # Converged at step 11333, dt=7.7500e-04
 # u: L2=3.7953e-03, Linf=1.2274e-02
